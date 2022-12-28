@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 25%;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
